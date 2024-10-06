@@ -36,7 +36,7 @@
     </head>
     <body>
         <h1 class="centered">
-            <span class="vehiculos">Vehículos</span> <span class="registrados">registrados</span> 📄
+            <span class="vehiculos">Vehículos</span> <span class="registrados">registrados</span> ?📄
         </h1>
         <%
             List<Vehiculo> listaVehiculos = (List) request.getSession().getAttribute("listaVehiculos");
