@@ -1,0 +1,12 @@
+com\mycompany\appwebregparqueaderogr5\JakartaRestConfiguration.class
+com\mycompany\appwebregparqueaderogr5\servlets\SvVehiculos.class
+persistencia\VehiculoJpaController.class
+logica\Controladora.class
+com\mycompany\appwebregparqueaderogr5\servlets\SvEliminarVehiculo.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\ControladoraPersistencia.class
+com\mycompany\appwebregparqueaderogr5\resources\JakartaEE8Resource.class
+persistencia\exceptions\IllegalOrphanException.class
+logica\Vehiculo_.class
+logica\Vehiculo.class
